@@ -6,6 +6,7 @@ namespace mirror
     {
         public static string reverse(string forward)
         {
+
             string backward = "";
             for (int i = 0; i < forward.Length; i++)
             {
